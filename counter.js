@@ -16,7 +16,7 @@ plus.addEventListener('click', () => {
 
 });
 
-minus.addEventListener('click', () => {
+minus.addEventListener('click', () => {2
 
     num--;
 
